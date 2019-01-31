@@ -1,6 +1,6 @@
 # PBT_TF.Estimator_with_Ray.tune
-Example how to combine tf.Estimator with ray.tune population based training (PBT)
-    example is based on:
+Example how to combine tf.Estimator with ray.tune population based training (PBT).
+    The example is based on:
     TensorFlow doc examples:
     https://github.com/tensorflow/models/blob/master/samples/core/get_started/premade_estimator.py
     and estimator with raytune example by @sseveran:
